@@ -1,0 +1,13 @@
+<resources>
+    <string name="hint">Enter Temp</string>
+    <string name="ContentDescription">Swap Icon</string>
+    <string name="Reminder">don\'t forget to click ✔ \n\t\t\tbutton on your keyboard</string>
+
+    <string name="app_name">Assignment2</string>
+    <string-array name="temp_units_array">
+        <item>Celcius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+
+</resources>
